@@ -22,9 +22,9 @@
 
 ## Data Sources
 
-- **Rain data from ERA 5
-- **Slope data from NASA SRTM
-- **Wind dara from Open-Meteo
-- **Map from OpenStreetMap (OSM)
-- **Visibility calculated through Kochmeider's law
+- Rain data from ERA 5
+- Slope data from NASA SRTM
+- Wind dara from Open-Meteo
+- Map from OpenStreetMap (OSM)
+- Visibility calculated through Kochmeider's law
 
