@@ -20,3 +20,11 @@
 | GCN | 3.21 | 0.940 | 3rd |
 | GAT | 4.71 | 0.866 | Worst |
 
+## Data Sources
+
+>Rain data from ERA 5
+>Slope data from NASA SRTM
+>Wind dara from Open-Meteo
+>Map from OpenStreetMap (OSM)
+>Visibility calculated through Kochmeider's law
+
