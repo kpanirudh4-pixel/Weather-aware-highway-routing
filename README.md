@@ -24,7 +24,7 @@
 
 - Rain data from ERA 5
 - Slope data from NASA SRTM
-- Wind dara from Open-Meteo
+- Wind data from Open-Meteo
 - Map from OpenStreetMap (OSM)
 - Visibility calculated through Kochmeider's law
 
